@@ -1,6 +1,6 @@
-using TypedFunctions
+using TypedFun
 using Test
 
-@testset "TypedFunctions.jl" begin
+@testset "TypedFun.jl" begin
     # Write your own tests here.
 end
